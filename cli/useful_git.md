@@ -1,4 +1,4 @@
-# USEFUL GIT
+# Useful GIT
 
 
 ------------
